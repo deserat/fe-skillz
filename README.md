@@ -1,4 +1,35 @@
-# Front End Skill Assesment
+# A Wonderful Assessment
+
+## Setup
+
+Install dependencies:
+
+```sh
+npm install
+```
+
+## Running In Production
+
+```sh
+npm run build-prod
+node dist/bundle.js
+```
+
+## Running In Development
+
+```sh
+npm start
+```
+
+## Testing
+
+To run unit tests:
+
+```sh
+npm test
+```
+
+# Front End Skill Assessment
 
 Thank you so much for your interest in a position on the Front End Development team at The Wonderful Company. We are very excited to continue our interview process with you!
 
